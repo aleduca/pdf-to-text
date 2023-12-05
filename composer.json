@@ -1,0 +1,13 @@
+{
+    "name": "xande/pdf-to-text",
+    "require": {
+        "symfony/var-dumper": "^7.0",
+        "spatie/pdf-to-text": "^1.52"
+    },
+    "authors": [
+        {
+            "name": "Alexandre Cardoso",
+            "email": "xandecar@hotmail.com"
+        }
+    ]
+}
